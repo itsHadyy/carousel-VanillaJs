@@ -35,4 +35,4 @@ If you would like to contribute to this project, you can fork the repository and
 
 #Credits
 
-This carousel was built by Hady Korshem using HTML, CSS, and Vanilla JS. https://korshem.com
+This carousel was built by Hady Korshem using HTML, CSS, and Vanilla JS. https://itshadyy.github.io
